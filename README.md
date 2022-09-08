@@ -4,3 +4,4 @@ Mi primer repositorio
 
 :basketball:, :pizza:, :moon:
 
+:sun:, :mountain:,
